@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Fall 2017 CS371p Blog Post 1 
+title: CS371p Fall 2017: Reed Hamilton
 ---
-:![_config.yml]({{ site.baseurl }}/images/config.png)
+:![_config.yml]({{ site.baseurl }}/images/avi.jpg)
 
-Hi, I'm Reed, and welcome to my blog!
+Hi, I'm Reed, and welcome to my first blog post!
 
 
