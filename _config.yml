@@ -3,13 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reed Hamilton
-
+name: S371p Fall 2017: Reed Hamilton
 # Short bio or description (displayed in the header)
 description: Third year CS student at the University of Texas at Austin.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/reedham1/reedham1.github.io/blob/master/images/avi.jpg
+avatar: https://raw.githubusercontent.com/reedham1/reedham1.github.io/blob/master/images/avi.jpg
 #
 # Flags below are optional
 #
