@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a third year student at the University of Texas studying computer science. I am a dedicated student who is passionate about technology.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+reedhamilton@utexas.edu
