@@ -1,0 +1,25 @@
+---
+layout: post
+title: "CS373 Final"
+---
+
+![_config.yml]({{ site.baseurl }}/images/avi.jpg)
+
+### What did you like the least about the class?
+What I liked least about the class was the inflexibility of the project topic. For this semester, and likely future semesters as well, the topic was civic engagement. I'll preface by stating this is not a bad topic at all, and I thoroughly enjoyed the project we chose and what resulted from our work. In fact, many teams were able to make very interesting and useful websites with this restriction. I completely understand and respect Downing's reasoning for placing this restriction. Naturally, however, I think it would have beenjust that much better if we were allowed to do a project about, for example, sports teams around the world. 
+### What did you like the most about the class?
+There are many things that I liked about this course, especially the raw experience I got which I believe is invaluable to have before working in the industry as a software engineer. Although it was hard work, it was always so rewarding to go home after a late night at the GDC and look over the newest version of your site which was just pushed to production. I also enjoyed the lectures. I believe Professor Downing is one of the most effective lecturers I've ever had.
+### What's the most significant thing you learned?
+As mentioned, I think the experience of the IMDb project. The experience of using all the tools, as well as the practice with architectural patterns like REST are extremely important things to know as a developer. 
+### How many hours a week did you spend coding/debugging/testing for this class?
+I would guess I committed 12-15 hours a week to this class outside of lecture. Some weeks were heavy with work, some were much lighter. 
+### How many hours a week did you spend reading/studying for this class?
+I spent maybe 1 hour a week reading or studying for this course. During the week before exams, however, I would spend about 10 hours studying.
+### How many lines of code do you think you wrote?
+It is very hard to make an accurate estimation, but I would guess around 1,000.
+### What required tool did you not know and now find very useful?
+Flask is very nice for building simple API's, but the most notable mention was Postman. An overall amazing tool for anything API related. Unit testing APIs, automating requests, documentation, API sandbox... You name it. 
+### What's the most useful Web dev tool that your group used that was not required?
+Personally, the most useful tool I used that was not required was probably SQLAlchemy + FlaskMarshmallow. These two tools together  made the interaction of our backend code with our database very simple and quick to work on. 
+### If you could change one thing about the course, what would it be?
+I would spend less time on StrategyPattern topics.
